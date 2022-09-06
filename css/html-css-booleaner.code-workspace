@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "html-css-booleaner",
+			"path": ".."
+		},
+		{
+			"name": "css",
+			"path": "../../css"
+		}
+	],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "html-css-booleaner"
+  }
+}
